@@ -1,0 +1,54 @@
+﻿└─ .idea
+└─ .venv
+└─ .vite
+└─ backend
+  └─ app
+    └─ _init_.py
+    └─ routes
+      └─ _init_.py
+      └─ api.py
+    └─ services
+      └─ _init_.py
+      └─ analyzers.py
+      └─ crawler.py
+    └─ utils
+      └─ _init_.py
+      └─ helpers.py
+  └─ data
+  └─ settings
+    └─ _init_.py
+    └─ config.py
+    └─ prompts.py
+   └─ .venv
+   └─ main.py
+   └─ requirement.txt
+└─ comment_analyzer.egg-info
+└─ frontend
+  └─ public
+    └─ assets
+  └─ src
+    └─ api
+      └─index.js
+    └─ assets
+      └─main.css
+    └─ components
+      └─KeywordInput.vue
+      └─Charts.vue
+      └─ChatBox.vue
+      └─Report.vue
+      └─ComparisonReport.vue
+    └─ router
+      └─index.json
+    └─ views
+       └─AnalysisPage.vue
+       └─HomePage.vue
+       └─NovelPreferencePage.vue
+    └─ App.vue
+    └─ main.js
+  └─ .env.development
+  └─ .env.production
+  └─ index.html
+  └─ package.josn
+  └─ package-lock.josn
+  └─ vite.config.js
+└─ bili_cookie.txt

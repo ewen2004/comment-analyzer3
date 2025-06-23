@@ -1,0 +1,28 @@
+# 依赖文件夹
+node_modules/
+frontend/node_modules/
+
+# Python 依赖
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+
+# 敏感配置文件
+bili_cookie.txt
+.env
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db

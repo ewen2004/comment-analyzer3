@@ -1,0 +1,12 @@
+{
+  "report": "分析失败: API请求失败: 400 Client Error: Bad Request for url: https://api.deepseek.com/v1/chat/completions",
+  "sentiment_data": {
+    "positive": 60,
+    "negative": 20,
+    "neutral": 20
+  },
+  "topics_data": {
+    "数据提取错误": 20,
+    "未分类主题": 10
+  }
+}
